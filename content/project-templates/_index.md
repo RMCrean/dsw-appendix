@@ -28,13 +28,6 @@ The table below lists the project templates available at dsw.scilifelab.se, thei
             <td class="table-tr1">SciLifeLab Vetenskapsrådet DMP</td>
         </tr>
         <tr class="table-style1">
-            <td class="table-tr1">SNIC DMP Template</td>
-            <td class="table-tr1">Use this project template when you want to create an abridged DMP for a SNIC project. 
-            </td>
-            <td class="table-tr1">SciLifeLab Science Europe / VR DMP</td>                  
-            <td class="table-tr1">SciLifeLab-SNIC</td>
-        </tr>
-        <tr class="table-style1">
             <td class="table-tr1">Intro DM course DMP Template</td>
             <td class="table-tr1">A DMP project template to be used for creating a data management plan 
                 document in the course Introduction to data management practices, module DMP. The template 
@@ -44,11 +37,11 @@ The table below lists the project templates available at dsw.scilifelab.se, thei
             <td class="table-tr1">SciLifeLab Vetenskapsrådet DMP</td>
         </tr>
         <tr class="table-style1">
-            <td class="table-tr1">NBIS Support Checklist Template</td>
-            <td class="table-tr1">Use this project template when you want to create an NBIS support project checklist.
+            <td class="table-tr1">Software Management Plan (SMP) Template</td>                    
+            <td class="table-tr1">Use this project template when you want to create a software management plan for your code project.
             </td>
-            <td class="table-tr1">NBIS Support Checklist</td>                  
-            <td class="table-tr1">NBIS support checklist Phase1</td>
+            <td class="table-tr1">Software Management Planning KM</td>
+            <td class="table-tr1">Software Management Plan</td>
         </tr>
         <tr class="table-style1">
             <td class="table-tr1">ELSI Checklist Template</td>                    

@@ -16,17 +16,14 @@ Knowledge models are questionnaire templates, they decide what questions will be
         <tr class="table-style1">
             <td class="table-tr1"><b>SciLifeLab Science Europe / VR DMP</b></td>
             <td class="table-tr1">Suitable when writing a full DMP, compliant with Vetenskapsrådets template. 
-                Can also be used, with the SNIC-SENS tag, for the abridged DMP required 
-                when applying for a project at Uppmax Bianca.
             </td>
-            <td class="table-tr1">SciLifeLab Vetenskapsrådet DMP, SciLifeLab Full, SciLifeLab Minimal, SciLifeLab-SNIC-SENS</td>
+            <td class="table-tr1">SciLifeLab Vetenskapsrådet DMP, SciLifeLab Full, SciLifeLab Minimal</td>
         </tr>
         <tr class="table-style1">
-            <td class="table-tr1"><b>NBIS Support Checklist</b></td>
-            <td class="table-tr1">Used in NBIS Support projects to evaluate data 
-                management needs in the project.
+            <td class="table-tr1"><b>Software Management Planning KM</b></td>
+            <td class="table-tr1">Used for creating a software management plan for code projects.
             </td>
-            <td class="table-tr1">Support checklist, Support checklist Phase1, Support checklist Phase2</td>
+            <td class="table-tr1">Software Management Plan</td>
         </tr>
         <tr class="table-style1">
             <td class="table-tr1"><b>Tryggve checklist on ELSI issues and GDPR compliance</b></td>
