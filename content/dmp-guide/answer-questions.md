@@ -14,11 +14,12 @@ The DSW tool has some functionality that can be good to know about, to be used b
 
 * Directly under the navigation bar is a **feature bar** with:
   * `View` show or hide tags, phases, and/or authors under questions
+  * `Comments` show or hide comments
   * `TODOs` show questions in need for actions
   * `Version history` browse history
   * `Zen mode` show or hide left menu and navigation bar
 
-  *Note: This guide will only go through the TODO functionality, for a guide on the other features please see [Useful tips and tricks](/dmp-guide/useful-tricks)*
+  *Note: This guide will only go through the TODO and Comment functionalities, for a guide on the other features please see [Useful tips and tricks](/dmp-guide/useful-tricks)*
 
 <img class="img-fluid" src="/img/dmp-guide/menu-navigation.jpg" alt="menu-navigation_image">
 
@@ -34,7 +35,7 @@ The DSW provides a filtering feature that allows you to see questions relevant o
 
 * The answers will be saved automatically.
 * Under most of the questions you will find guidance or advice on how to answer or what to consider.
-* For some questions you may provide more than one answer. If you want to add a new answer click the Àdd` button at the end of your last answer. *Note: When doing so, you might need to scroll up in order to get to the first field to be filled.*
+* For some questions you may provide more than one answer. If you want to add a new answer click the `Add` button at the end of your last answer. *Note: When doing so, you might need to scroll up in order to get to the first field to be filled.*
 * Your DMP is ready to be filled. Answer the questions in red (these are the questions that should be answered during the selected phase, questions which belong to other phases are in black).
 
 #### Note
@@ -58,7 +59,7 @@ The tool has a TODO function, which lets you mark questions where an action is n
 
 <img class="img-fluid" src="/img/dmp-guide/todo-remove.jpg" alt="todo_remove_image">
 
-#### Add comment
+## Add comment {#Add_comment}
 It is possible to add comments by clicking on the bubble icon next to a question, adding a comment and then click on the `Comment` button.
 
 <img class="img-fluid" src="/img/dmp-guide/comment-add.jpg" alt="add-comment_image">
