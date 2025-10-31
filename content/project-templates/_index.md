@@ -37,6 +37,13 @@ The table below lists the project templates available at dsw.scilifelab.se, thei
             <td class="table-tr1">SciLifeLab Vetenskapsrådet DMP</td>
         </tr>
         <tr class="table-style1">
+            <td class="table-tr1">Software Management Plan (SMP) Template</td>                    
+            <td class="table-tr1">Use this project template when you want to create a software management plan for your code project.
+            </td>
+            <td class="table-tr1">Software Management Planning KM</td>
+            <td class="table-tr1">Software Management Plan</td>
+        </tr>
+        <tr class="table-style1">
             <td class="table-tr1">ELSI Checklist Template</td>                    
             <td class="table-tr1">Use this project template when you want to check ELSI and GDPR compliance.
             </td>
