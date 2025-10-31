@@ -21,5 +21,5 @@ Follow the 'How to'-links below to get help on the different functions of DS Wiz
 * [Terminology](/#terminology)
 
 ## See also:
-* [DS Wizard User guide](https://guide.ds-wizard.org/)
-* [Youtube video clip](https://www.youtube.com/watch?v=aGpr6JFMuiE) from a workshop organized by the [team](https://ds-wizard.org/) who developed DS Wizard. The video clip demonstrates the functionality both from a researcher's and a data steward's point of view.
+* <a href="https://guide.ds-wizard.org/" target="_blank">DS Wizard User guide</a> - The official user guide for DS Wizard, provided by the developers of DS Wizard.
+* <a href ="https://www.youtube.com/watch?v=aGpr6JFMuiE" target="_blank">Youtube video clip</a> from a workshop organized by the developers of DS Wizard. The video clip demonstrates the functionality both from a researcher's and a data steward's point of view.

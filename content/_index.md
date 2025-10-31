@@ -16,9 +16,6 @@ Follow the 'How to'-links below to get help on the different functions of DSW wh
 * [Create a copy of existing Project](/dmp-guide/clone-project)
 * [Get Help and provide Feedback](/dmp-guide/help-feedback)
 
-## NBIS Support Checklist
-
-The purpose of NBIS Support Checklist is to be a tool that helps to go through the main points of data management strategies for NBIS support projects. The **[Guide for creating NBIS Support Checklist](/checklist-guide/)** goes through the DSW functionality from this point of view.
 
 ## Additional tips and tricks
 
@@ -27,8 +24,8 @@ The purpose of NBIS Support Checklist is to be a tool that helps to go through t
 * [List of all knowledge models](/knowledge-models/) (for Data Stewards)
 
 ## See also:
-* [DS Wizard User guide](https://guide.ds-wizard.org/) (External link)
-* [Youtube video clip](https://www.youtube.com/watch?v=aGpr6JFMuiE) from a workshop organized by the [team](https://ds-wizard.org/) who developed DS Wizard. The video clip demonstrates the functionality both from a researcher's and a data steward's point of view.
+* <a href="https://guide.ds-wizard.org/" target="_blank">DS Wizard User guide</a> - The official user guide for DS Wizard, provided by the developers of DS Wizard.
+* <a href ="https://www.youtube.com/watch?v=aGpr6JFMuiE" target="_blank">Youtube video clip</a> from a workshop organized by the developers of DS Wizard. The video clip demonstrates the functionality both from a researcher's and a data steward's point of view.
 
 ## Terminology {#terminology}
 
